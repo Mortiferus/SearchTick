@@ -1,0 +1,1 @@
+### [Решение](https://github.com/Mortiferus/Coverage100-) => [домашнего задания](https://github.com/netology-code/javaqa-homeworks/tree/master/interfaces)
